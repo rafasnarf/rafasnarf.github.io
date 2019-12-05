@@ -3,7 +3,7 @@ $(document).ready(function () {
     'https://www.googleapis.com/youtube/v3/search', {
     key: 'AIzaSyAGgPfgloMNl6id3w9uv3O8EsAgArp_7k0',
     part: 'snippet',
-    q: 'mussinha',
+    q: 'Musica filme matilda',
     type: 'video',
   },
     function (data) {
